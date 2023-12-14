@@ -19,6 +19,7 @@ I expect your application to be able to:
 - I don't expect to see lags in the application.
 
 An example of how it is in our platform currently:
+![MicrosoftTeams-image (118)](https://github.com/qsengineers/dashboard-large-menu/assets/134649881/57876e34-8d5b-44ff-b291-f08f780a303c)
 
 
 
