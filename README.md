@@ -6,6 +6,13 @@ Of course, we are gonna build limited features as a whole dashboard would take t
 Restaurant Data should be consumed from the provided json below. Do not mock the json's, fetch the data from url below.
 [https://cdn-dev.preoday.com/senior-fe-menu-challenge.json](https://cdn-dev.preoday.com/senior-fe-menu-challenge.json)
 
+
+## Deliveries
+- Please deploy the solution in a shared URL so i can see the results without needing to run.
+- Please fork this repository on your account to add diagrams and invite ronaldo.zanoni@qikserve.com, felipe.loge@qikserve.com and caio.ricci@qikserve.com.
+
+
+
 ## UI - Application
 
 I expect your application to be able to:
