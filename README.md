@@ -9,7 +9,7 @@ Restaurant Data should be consumed from the provided json below. Do not mock the
 
 ## Deliveries
 - Please deploy the solution in a shared URL so i can see the results without needing to run.
-- Please fork this repository on your account to add diagrams and invite ronaldo.zanoni@qikserve.com, felipe.loge@qikserve.com and caio.ricci@qikserve.com.
+- Please fork this repository on your account and invite ronaldo.zanoni@qikserve.com, felipe.loge@qikserve.com and caio.ricci@qikserve.com.
 
 
 
